@@ -1,5 +1,3 @@
-# calculadora-iphone
-clone simplificado da calculadora do iphone.
 <!--
 *** Obrigado por estar vendo o nosso README. Se você tiver alguma sugestão
 *** que possa melhorá-lo ainda mais dê um fork no repositório e crie uma Pull
