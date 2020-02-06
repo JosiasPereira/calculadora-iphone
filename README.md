@@ -16,10 +16,9 @@
   <h3 align="center">Projeto simplificado da cauculdora do iphone modo dark com Expo</h3>
 </p>
 <br/>
-<p align="center">
+<p align="center" >
   <h4 align="center">Telas</h4>
-  <img src="https://github.com/JosiasPereira/calculadora-iphone/blob/master/assets/print1.jpg" alt="print1" width="380" height="auto">
-  <img src="https://github.com/JosiasPereira/calculadora-iphone/blob/master/assets/print2.jpg" alt="print1" width="380" height="auto">
+  <img src="https://github.com/JosiasPereira/calculadora-iphone/blob/master/assets/print1.jpg" alt="print1" width="380" height="auto"> <img src="https://github.com/JosiasPereira/calculadora-iphone/blob/master/assets/print2.jpg" alt="print1" width="380" height="auto">  
 </p>
 <!-- CONTACT -->
 
